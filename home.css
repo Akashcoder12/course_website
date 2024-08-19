@@ -1,0 +1,278 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.wbody>.header{
+    border: 2px solid goldenrod;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    background-color: gold;
+}
+
+.wbody>.header:hover{
+    background-color: goldenrod;
+    color: blue;
+    font-size: 30px;
+}
+
+
+.wbody>.nav{
+    display: flex;
+    width: 100%;
+    background-color:black;
+}
+
+.wbody>.nav>.home{
+    width: 40%;
+    text-align: center;
+}
+
+
+.wbody>.nav>.home>a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+  
+.wbody>.nav>.home>a:hover{
+    font-size: 25px;
+    color:gold;
+}
+
+.wbody>.nav>.about{
+    width: 20%;
+    text-align: center;
+}
+
+.wbody>.nav>.about>a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    
+}
+.wbody>.nav>.about>a:hover{
+    font-size: 25px;
+    color:gold;
+}
+
+.wbody>.nav>.registration{
+    width: 20%;
+    text-align: center;
+}
+.wbody>.nav>.registration>a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+
+.wbody>.nav>.registration>a:hover{
+    font-size: 25px;
+    color:gold;
+}
+
+
+
+.wbody>.nav>.contact{
+    width: 20%;
+    text-align: center;
+}
+
+.wbody>.nav>.contact>a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+
+.wbody>.nav>.contact>a:hover{
+    font-size: 25px;
+    color:gold;
+}
+
+.wbody>.main>.row1{
+    background-color: goldenrod;
+    border:2px solid gold ;
+
+}
+.wbody>.main>.row1>.c1{
+    border: 2px solid gold;
+}
+.wbody>.main>.row1>.c1:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
+
+.wbody>.main>.row1>.c1>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+.wbody>.main>.row1>.c1>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+.wbody>.main>.row1>.c2>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+.wbody>.main>.row1>.c2{
+    border: 2px solid gold;
+}
+
+.wbody>.main>.row1>.c2:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
+
+.wbody>.main>.row1>.c2>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+
+.wbody>.main>.row1>.c3>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+
+.wbody>.main>.row1>.c3{
+    border: 2px solid gold;
+}
+
+.wbody>.main>.row1>.c3:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
+
+.wbody>.main>.row1>.c3>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+.wbody>.main>.row2{
+    background-color: goldenrod;
+    border:2px solid gold ;
+
+}
+
+.wbody>.main>.row2>.c4>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+
+.wbody>.main>.row2>.c4{
+    border: 2px solid gold;
+}
+
+.wbody>.main>.row2>.c4:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
+
+.wbody>.main>.row2>.c4>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+.wbody>.main>.row2>.c5>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+
+.wbody>.main>.row2>.c5>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+.wbody>.main>.row2>.c5{
+    border: 2px solid gold;
+}
+
+
+.wbody>.main>.row2>.c5:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
+
+.wbody>.main>.row2>.c6>h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color:gainsboro;
+    width: 50%;
+}
+
+
+
+.wbody>.main>.row2>.c6>pre{
+    font-family: monospace;
+    border: 2px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    background-color: gold;
+    
+}
+
+
+.wbody>.main>.row2>.c6{
+    border: 2px solid gold;
+}
+
+.wbody>.main>.row2>.c6:hover{
+    font-weight: bold;
+     border: 2px solid black;
+     
+}
